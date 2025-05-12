@@ -1,4 +1,4 @@
-Brain Tumor Classification Using Convolutional Neural Networks
+# Brain Tumor Classification Using Convolutional Neural Networks
 
 This project is a brain tumor classification system that utilizes a Convolutional Neural Network (CNN) to classify medical images of brain tumors. The model classifies the images into four categories: glioma, meningioma, notumor, and pituitary tumors.
 
@@ -25,3 +25,4 @@ You can install the required libraries by running:
 
 ```bash
 pip install tensorflow numpy opencv-python gradio scikit-learn
+
